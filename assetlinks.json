@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.base44.sentry_bridge_shield.twa",
+        "sha256_cert_fingerprints": ["BA:55:2F:6E:6E:21:C8:FA:FB:37:B5:13:15:C4:05:94:8E:05:37:65:AE:1F:30:B5:12:B5:65:E2:7D:7A:3E:FC"]
+      }
+    }]
